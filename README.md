@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Magrinha
 - 👀 I’m interested in IT,Art and Music
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
